@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang = "en">
+    <head>
+        <title>Links</title>
+    </head>
+    <body>
+        <a href="Image.html">Click here</a>
+        <!--requires href- Hyper link refrence-->
+    </body>
+</html>
