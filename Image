@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang = "en">
+    <head>
+        <title>Image</title>
+    </head>
+    <body>
+        <img src="test.jpg" alt="Fastest Car" width ="300"> <!--scr - Source(located in comp)/ alt - alternative if cannot load (text)-->
+        <!--Img tag is self closing-->
+    </body>
+</html>
